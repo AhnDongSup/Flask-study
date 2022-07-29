@@ -1,0 +1,38 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "database": "${workspaceFolder:FLask}/database.db",
+            "name": "sql"
+        },
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "sql",
+            "database": "${workspaceFolder:FLask}/database.db"
+        },
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "sql",
+            "database": "${workspaceFolder:FLask}/database.db"
+        },
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "sdaa",
+            "database": "${workspaceFolder:FLask}/database.db",
+            "group": "asd"
+        },
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "1",
+            "group": "2",
+            "database": "${workspaceFolder:FLask}/database.db"
+        }
+    ],
+    "sqltools.useNodeRuntime": true,
+    "liveServer.settings.port": 5501
+}
